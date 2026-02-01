@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1763103001324,
+    "product": "Velvet Matte Lipstick",
+    "method": "SMS",
+    "contact": "7022120594",
+    "createdAt": "2025-11-14T06:50:01.325Z"
+  },
+  {
+    "id": 1763109041707,
+    "product": "Pulse Smartwatch",
+    "method": "SMS",
+    "contact": "7022120594",
+    "createdAt": "2025-11-14T08:30:41.707Z"
+  },
+  {
+    "id": 1763109569745,
+    "product": "Pulse Smartwatch",
+    "method": "SMS",
+    "contact": "+917022120594",
+    "createdAt": "2025-11-14T08:39:29.745Z"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "name": "dealscope",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "lottie-react": "^2.4.1",
+    "next": "16.0.3",
+    "playwright": "^1.56.1",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "twilio": "^5.10.5",
+    "user-agents": "^1.1.669"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "16.0.3",
+    "tailwindcss": "^4"
+  }
+}

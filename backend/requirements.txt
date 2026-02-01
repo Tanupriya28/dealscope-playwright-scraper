@@ -1,0 +1,11 @@
+flask
+flask-cors
+fake-useragent
+playwright
+urllib3
+requests
+bs4
+python-dotenv
+twilio
+chromium
+

@@ -1,0 +1,38 @@
+[
+  {
+    "keyword": "nike shoes (50% off)",
+    "threshold": 50,
+    "method": "SMS",
+    "contact": "+91 7022120594",
+    "active": true
+  },
+  {
+    "keyword": "susncreen (30% off)",
+    "threshold": 30,
+    "method": "SMS",
+    "contact": "+917022120594",
+    "active": true
+  },
+  {
+    "id": "eeeb3db1-213b-4424-b697-f03dca3c33a4",
+    "keyword": "eyeliner",
+    "discount": "40%",
+    "method": "SMS",
+    "contact": "917022120594",
+    "product_title": "eyeliner",
+    "product_url": null,
+    "site": null,
+    "created_at": "2025-11-24T11:16:36.826544Z"
+  },
+  {
+    "id": "3a72f795-b29e-4fa6-a0de-7e7313f8073b",
+    "keyword": "running shoes",
+    "discount": "70%",
+    "method": "WhatsApp",
+    "contact": "+917022120594",
+    "product_title": "running shoes",
+    "product_url": null,
+    "site": null,
+    "created_at": "2025-11-26T06:59:16.053501Z"
+  }
+]
